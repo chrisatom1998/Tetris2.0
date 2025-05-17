@@ -1,4 +1,4 @@
-package com.example.tetris
+package com.example.tetrisv2
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

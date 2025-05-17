@@ -1,4 +1,4 @@
-package com.example.tetris
+package com.example.tetrisv2
 
 import android.content.Context
 import android.graphics.Canvas
