@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tetris2.0</string>
+    <string name="move_left">Left</string>
+    <string name="move_right">Right</string>
+    <string name="rotate">Rotate</string>
+    <string name="drop">Drop</string>
+</resources>
